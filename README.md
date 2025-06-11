@@ -1,5 +1,5 @@
 # About me
-I'm Piotr Czarnecki, I live in Poland, I'm programming since i was 14 years old and I keep learning to this day.
+I'm Piotr Czarnecki, I live in Poland, I'm programming since i was 14 years old and I keep learning to this day. \
 Currently I'm studing backend development from an amazing [roadmap.sh](https://roadmap.sh/backend) tutorial, and I'm also interested in topics like data science and AI/machine learning.
 
 My biggest goal right now is to become a laureate or finalist of the Polish Informatics Olympiad for high schools.
@@ -11,12 +11,10 @@ My biggest goal right now is to become a laureate or finalist of the Polish Info
 - 🗄️ Basic backend knowlage (I'm still learning 😅)
 
 ## Experience
-I track my skills with projects, avaliable [here](https://github.com/piotr-czarnecki07?tab=repositories)
+I track my skills with projects, avaliable [here](https://github.com/piotr-czarnecki07?tab=repositories) \
 Most of them are roadmap.sh projects.
 
 ## Contact me
-For collaboration please contact me via Email, avaliable on my profile.
+For collaboration please contact me via Email, which is avaliable on my profile.
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piotr-czarnecki07)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piotr-czarnecki07)](https://github.com/anuraghazra/github-readme-stats)-->
