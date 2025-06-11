@@ -17,4 +17,6 @@ Most of them are roadmap.sh projects.
 ## Contact me
 For collaboration please contact me via Email, avaliable on my profile.
 
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piotr-czarnecki07)](https://github.com/anuraghazra/github-readme-stats)
