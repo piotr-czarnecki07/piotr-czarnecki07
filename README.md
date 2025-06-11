@@ -1,16 +1,20 @@
-## Hi there 👋
+# About me
+I'm Piotr Czarnecki, I live in Poland, I'm programming since i was 14 years old and I keep learning to this day.
+Currently I'm studing backend development from an amazing [roadmap.sh](https://roadmap.sh/backend) tutorial, and I'm also interested in topics like data science and AI/machine learning.
 
-<!--
-**piotr-czarnecki07/piotr-czarnecki07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My biggest goal right now is to become a laureate or finalist of the Polish Informatics Olympiad for high schools.
 
-Here are some ideas to get you started:
+## My skills
+- 🐍 Intermediate level of Python knowlage
+- 🤠 Experience in Django and Django REST Framework
+- 📁 Experience in Git VCS usage, e.g. creating and managing a project using Git, as well as colaborating with other contributors
+- 🗄️ Basic backend knowlage (I'm still learning 😅)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+I track my skills with projects, avaliable [here](https://github.com/piotr-czarnecki07?tab=repositories)
+Most of them are roadmap.sh projects.
+
+## Contact me
+For collaboration please contact me via Email, avaliable on my profile.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piotr-czarnecki07)](https://github.com/anuraghazra/github-readme-stats)
