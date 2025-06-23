@@ -1,5 +1,5 @@
 # About me
-I'm Piotr Czarnecki, I live in Poland, I'm programming since i was 14 years old and I keep learning to this day. \
+I'm Piotr and I'm programming since I was 14 years old and I keep learning to this day. \
 Currently I'm studing backend development from an amazing [roadmap.sh](https://roadmap.sh/backend) tutorial, and I'm also interested in topics like data science and AI/machine learning.
 
 My biggest goal right now is to become a laureate or finalist of the Polish Informatics Olympiad for high schools.
