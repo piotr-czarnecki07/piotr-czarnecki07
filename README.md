@@ -13,7 +13,7 @@ My biggest goal right now is to become a laureate or finalist of the Polish Info
 ## Experience
 I track my skills with projects, avaliable [here](https://github.com/piotr-czarnecki07?tab=repositories) \
 Most of them are roadmap.sh projects. \
-View "Pinned" repositories on my profile to see the top 6 of my projects.
+View "Pinned" repositories on my profile to see the top 4 of my projects.
 
 ## Contact me
 For collaboration please contact me via Email, which is avaliable on my profile.
